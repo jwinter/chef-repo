@@ -1,3 +1,6 @@
+Take a look at .chef/knife.rb to see what you credentials you need. Defaults are in ~/.chef/.
+
+
 Overview
 ========
 
